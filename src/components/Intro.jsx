@@ -11,10 +11,10 @@ function Intro() {
       <p className="text-sm max-w-xl mb-6">
         I like coding, playing chess, running and going to the gym.
       </p>
-      {/* <p>
+      <p>
         My goal is to build a successful start-up and complete IRON-MAN
         marathon. Which one do you think I will do first????
-      </p> */}
+      </p>
     </div>
   );
 }
