@@ -11,7 +11,7 @@ export default [
          title: 'Won OPTIVER Algorithmic Trading Contest',
          duration: '20 days',
          details:
-             "Won the OPTOVER contest at the Edinburgh hackaton (backed by University of Edinburgh) by providing algorithm that generated most profit. Since we played role of market makers, our algorithm utilized the pairs trading strategy to make bid/ask trades between stocks and ETFs. This victory motivated our team to pursue OPTIVER Ready Trader Go worldwide competition where we placed in top 5% among 3000 other competitors.",
+             "Won the OPTIVER contest at the Edinburgh hackaton (backed by University of Edinburgh) by providing algorithm that generated most profit. Since we played role of market makers, our algorithm utilized the pairs trading strategy to make bid/ask trades between stocks and ETFs. This victory motivated our team to pursue OPTIVER Ready Trader Go worldwide competition where we placed in top 5% among 3000 other competitors.",
      },
      {
         year: '2023',
